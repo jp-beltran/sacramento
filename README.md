@@ -6,7 +6,7 @@ Este é o repositório oficial do website do restaurante **Sacramento do Chiado*
 
 ## 🔗 Acesse o site
 
-📍 [Link do Projeto](https://sacramento-taupe.vercel.app)  ]
+📍 [[Link do Projeto](https://sacramento-taupe.vercel.app)  ]
 ⚠️ *Link de deploy provisório.*
 
 ---
